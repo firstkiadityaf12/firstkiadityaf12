@@ -24,6 +24,3 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/firstkiadityaf/)
 [![](https://img.shields.io/badge/-LinkedIn-black?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/firstkiaditya/)
 
-**firstkiadityaf12/firstkiadityaf12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
