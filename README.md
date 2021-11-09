@@ -3,7 +3,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently Student
 - 🌱 I’m currently learning Node, SQL, python, React
-<!--
+
 ### 🛠 Languages and Tools:
 
 ![](https://img.shields.io/badge/-NPM-red?logo=NPM&style=flat-square)
