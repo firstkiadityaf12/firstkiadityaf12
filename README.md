@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-React.js-blue?logo=React&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Redux-purple?logo=Redux&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Javascript-orange?logo=Javascript&logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/-linux-blue?logo=linux&logoColor=white&style=flat-square)
 
 ### Follow My Social:
 
