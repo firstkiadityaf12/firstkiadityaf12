@@ -1,8 +1,7 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Student
-- 🌱 I’m currently learning Node, SQL, python, React
+irstki Aditya, a Software Engineering student from SMK Telkom Malang, interested in programming skills. Experienced in API development using Linux, Git, Node.Js, ReactJs, Express.Js, MySQL, and Sequelize ORM. I can work with individual and team work conditions.
 
 ### 🛠 Languages and Tools:
 
