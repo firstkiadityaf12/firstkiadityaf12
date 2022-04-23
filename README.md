@@ -1,7 +1,7 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
-irstki Aditya, a Software Engineering student from SMK Telkom Malang, interested in programming skills. Experienced in API development using Linux, Git, Node.Js, ReactJs, Express.Js, MySQL, and Sequelize ORM. I can work with individual and team work conditions.
+Firstki Aditya, a Software Engineering student from SMK Telkom Malang, interested in programming skills. Experienced in API development using Linux, Git, Node.Js, ReactJs, Express.Js, MySQL, and Sequelize ORM. I can work with individual and team work conditions.
 
 ### 🛠 Languages and Tools:
 
