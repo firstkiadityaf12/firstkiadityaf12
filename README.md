@@ -1,7 +1,7 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
-Firstki Aditya, a Software Engineering student from SMK Telkom Malang, interested in programming skills. Experienced in API development using Linux, Git, Node.Js, ReactJs, Express.Js, MySQL, and Sequelize ORM. I can work with individual and team work conditions.
+Motivated Information Systems student at Telkom University with a strong passion for transitioning into Cybersecurity. Experienced in developing and hardening systems and servers focusing on security concepts. Skilled in creating network flows and dedicated to enhancing security measures. I am eager to leverage my software engineering background and analytical skills to contribute effectively to Cybersecurity roles. Committed to working in laboratory settings and collaborating with teams to address security challenges.
 
 ### 🛠 Languages and Tools:
 
